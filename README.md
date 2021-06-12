@@ -2,6 +2,7 @@
 
 [![Elastic Stack version](https://img.shields.io/badge/Elastic%20Stack-7.13.0-00bfb3?style=flat&logo=elastic-stack)](https://www.elastic.co/blog/category/releases)
 [![MySQL version](https://img.shields.io/badge/MySQL-8.0-f29111?style=flat&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/relnotes/mysql/8.0/en/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frayjasson98%2Fdocker-mysql-elk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Learn how to synchronize data from MySQL to Elasticsearch using Logstash and JDBC.
 
